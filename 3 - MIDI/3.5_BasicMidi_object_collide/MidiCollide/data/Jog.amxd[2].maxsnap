@@ -1,0 +1,51 @@
+{
+	"filetype" : "C74Snapshot",
+	"version" : 2,
+	"minorversion" : 0,
+	"name" : "Jog.amxd[2]",
+	"origin" : "Jog.amxd",
+	"type" : "amxd",
+	"subtype" : "Undefined",
+	"embed" : 0,
+	"snapshot" : 	{
+		"name" : "Jog.amxd",
+		"origname" : "~/Music/Ableton/User Library/Devices/Kit/Kit Project/Jog.amxd",
+		"valuedictionary" : 		{
+			"parameter_values" : 			{
+				"Note Input" : 0.0,
+				"Note Length" : 0.0,
+				"Pattern Fill" : 0.401574803149606,
+				"Pattern Length" : 16.0,
+				"Playback Direction" : 1.0,
+				"Rec" : 0.0,
+				"Tempo Division" : 1.0,
+				"blob" : 				{
+					"live.numbox" : [ 6.0 ],
+					"live.numbox[10]" : [ 59.0 ],
+					"noted" : [ 						{
+							"1" : [ 59, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+							"2" : [ 59, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+							"3" : [ 52, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+							"4" : [ 52, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+							"5" : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+							"6" : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
+						}
+ ],
+					"veld" : [ 						{
+							"1" : [ 127, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+							"2" : [ 127, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+							"3" : [ 127, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+							"4" : [ 127, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+							"5" : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+							"6" : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
+						}
+ ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

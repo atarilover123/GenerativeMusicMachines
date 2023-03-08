@@ -1,0 +1,33 @@
+{
+	"filetype" : "C74Snapshot",
+	"version" : 2,
+	"minorversion" : 0,
+	"name" : "Hue.amxd",
+	"origin" : "Hue.amxd",
+	"type" : "amxd",
+	"subtype" : "Undefined",
+	"embed" : 0,
+	"snapshot" : 	{
+		"name" : "Hue.amxd",
+		"origname" : "~/Music/Ableton/User Library/Devices/Kit/Kit Project/Hue.amxd",
+		"valuedictionary" : 		{
+			"parameter_values" : 			{
+				"Base Env Depth" : 0.118110236220472,
+				"Base Env Time" : 1.0,
+				"Base Frequency" : 0.503937007874016,
+				"Base Pattern Length" : 8.0,
+				"Base Q" : 0.0,
+				"Base Trig Fill" : 0.0,
+				"Width Env Depth" : 0.850393700787402,
+				"Width Env Time" : 0.984251968503937,
+				"Width Frequency" : 0.433070866141733,
+				"Width Pattern Length" : 8.0,
+				"Width Q" : 0.0,
+				"Width Trig Fill" : 0.425196850393701
+			}
+
+		}
+
+	}
+
+}

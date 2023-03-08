@@ -1,0 +1,29 @@
+{
+	"filetype" : "C74Snapshot",
+	"version" : 2,
+	"minorversion" : 0,
+	"name" : "Box.amxd",
+	"origin" : "Box.amxd",
+	"type" : "amxd",
+	"subtype" : "Undefined",
+	"embed" : 0,
+	"snapshot" : 	{
+		"name" : "Box.amxd",
+		"origname" : "~/Music/Ableton/User Library/Devices/Kit/Kit Project/Box.amxd",
+		"valuedictionary" : 		{
+			"parameter_values" : 			{
+				"Crunch Amount" : 0.188976377952756,
+				"Dry/Wet Mix" : 0.456692913385827,
+				"Reflection Size" : 0.480314960629922,
+				"Reverb Balance" : 0.984251968503937,
+				"Reverb Feedback" : 0.448818897637796,
+				"Reverb Tone" : 0.0,
+				"Space Size" : 0.582677165354331,
+				"Warble Intensity" : 0.566929133858268
+			}
+
+		}
+
+	}
+
+}

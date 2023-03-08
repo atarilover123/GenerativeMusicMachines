@@ -1,0 +1,36 @@
+{
+	"filetype" : "C74Snapshot",
+	"version" : 2,
+	"minorversion" : 0,
+	"name" : "Pop.amxd[1]",
+	"origin" : "Pop.amxd",
+	"type" : "amxd",
+	"subtype" : "Undefined",
+	"embed" : 0,
+	"snapshot" : 	{
+		"name" : "Pop.amxd",
+		"origname" : "~/Music/Ableton/User Library/Devices/Kit/Kit Project/Pop.amxd",
+		"valuedictionary" : 		{
+			"parameter_values" : 			{
+				"Amp Attack" : 0.0,
+				"Amp Decay" : 0.421259842519685,
+				"Amp Release" : 0.535433070866142,
+				"Amp Sustain" : 0.488188976377953,
+				"Harmonics" : 0.133858267716535,
+				"Modulator Decay" : 0.740157480314961,
+				"Modulator Sustain" : 1.0,
+				"Reference Pitch" : 380.0,
+				"Spectra" : 0.0,
+				"Spectra Map" : 0.0,
+				"Tuning" : 12.0,
+				"blob" : 				{
+					"umenu" : [ 0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
